@@ -23,10 +23,9 @@
 
 
 <div align="center">
- ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-  </div>
-
+### ✍️ Random Dev Quote
+<img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" >
+ </div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Asaduzzama-n&icon=0&color=0)](https://visitcount.itsvg.in)
