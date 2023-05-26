@@ -29,6 +29,9 @@
 <br />
 <br />
 
+
+![Asaduzzama-n's Stats](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+
 [![Asaduzzaman's GitHub stats](https://github-readme-stats-git-master-asaduzzama-n.vercel.app/api?username=Asaduzzama-n&show_icons=true&theme=transparent)](https://github.com/Asaduzzama-n/github-readme-stats)
 
  <br />
