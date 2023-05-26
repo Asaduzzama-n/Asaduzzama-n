@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**Asaduzzama-n/Asaduzzama-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hello, I'm Asaduzzaman</h1>
+<h3 align="center">a passionate full stack web developer and undergraduate student studying Computer Science and Engineering. I love building innovative and user-friendly web applications using a variety of technologies.</h3>
 
 Here are some ideas to get you started:
 
