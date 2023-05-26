@@ -9,13 +9,13 @@
 
 
 
-
+<br />
 
 
 <h3 align="left">Languages and Tools:</h3>
 
 
-
+<br />
 
 <p align="left">    
 
@@ -23,11 +23,15 @@
 
 </p>
 
+<br />
 
 
 [![Asaduzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&show_icons=true&theme=transparent)](https://github.com/Asaduzzama-n/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Asaduzzama-n&show_icons=true&theme=transparent)  
+ <br />
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&layout=compact&show_icons=true&theme=transparent)](https://github.com/Asaduzzama-n/github-readme-stats)
 
+<br />
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Asaduzzama-n&show_icons=true&theme=transparent) 
