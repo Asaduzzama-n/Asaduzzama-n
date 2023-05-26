@@ -23,7 +23,7 @@ a passionate full-stack web developer and an undergraduate student studying Comp
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Asaduzzama-n&icon=0&color=0)](https://visitcount.itsvg.in)
