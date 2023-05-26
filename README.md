@@ -27,5 +27,5 @@
 
 [![Asaduzzaman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&show_icons=true&theme=transparent)](https://github.com/Asaduzzama-n/github-readme-stats)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&layout=donut)](https://github.com/Asaduzzama-n/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&layout=compact)](https://github.com/Asaduzzama-n/github-readme-stats)
 
