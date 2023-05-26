@@ -32,12 +32,12 @@
 
 ![Asaduzzama-n's Stats](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
-[![Asaduzzaman's GitHub stats](https://github-readme-stats-git-master-asaduzzama-n.vercel.app/api?username=Asaduzzama-n&show_icons=true&theme=transparent)](https://github.com/Asaduzzama-n/github-readme-stats)
+
+
 
  <br />
 
- [![Top Langs](https://github-readme-stats-git-master-asaduzzama-n.vercel.app/api/top-langs/?username=Asaduzzama-n&layout=compact&show_icons=true&theme=transparent)](https://github.com/Asaduzzama-n/github-readme-stats)
-
+![Asaduzzama-n's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=tokyonight&hide_border=true)
 <br />
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Asaduzzama-n&show_icons=true&theme=transparent) 
+![Asaduzzama-n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
