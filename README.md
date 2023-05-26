@@ -30,14 +30,11 @@
 <br />
 
 
-![Asaduzzama-n's Stats](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
+<div align="center">
+  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" >
+  </div>
 
-
-
-
- <br />
- 
-![Asaduzzama-n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 <br />
 
