@@ -32,11 +32,13 @@
 
 <div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" >
+<img  height="180em" width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" >
   </div>
 
 
 <br />
+<div align="center">
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=tokyonight&hide_border=true">
+  </div>
 
-![Asaduzzama-n's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=tokyonight&hide_border=true)
 
