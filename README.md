@@ -36,8 +36,8 @@
 
 
  <br />
-
-![Asaduzzama-n's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=tokyonight&hide_border=true)
-<br />
-
 ![Asaduzzama-n's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+
+<br />
+![Asaduzzama-n's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=tokyonight&hide_border=true)
+
