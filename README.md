@@ -12,11 +12,13 @@
 <div align="center">
   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false">
 <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=react&hide_border=true" >
+  <br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
   </div>
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=react&hide_border=true)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 <br/>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
