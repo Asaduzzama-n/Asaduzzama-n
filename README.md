@@ -17,10 +17,6 @@ a passionate full-stack web developer and an undergraduate student studying Comp
   
   </div>
 
-
-[](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=react&hide_border=true)<br/> 
-
 <br/>
 
 
