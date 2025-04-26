@@ -1,8 +1,11 @@
+
+<div align="center">
+  <a href="https://github.com/Asaduzzama-n">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Asaduzzaman&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header" />
+  </a>
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Asaduzzaman!;Full-Stack+Web+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
-</p>
-<p align="center">
-  <strong>Software Engineer</strong> | <strong>Full-Stack Web Developer</strong> | Passionate about crafting user-friendly and secure web applications.
 </p>
 
 <p align="center">
@@ -12,11 +15,6 @@
   📍 <strong>Location:</strong> Dhaka, Bangladesh
 </p>
 
-<div align="center">
-  <a href="https://github.com/Asaduzzama-n">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Asaduzzaman&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header" />
-  </a>
-</div>
 
 
 
