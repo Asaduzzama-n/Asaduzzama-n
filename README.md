@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello, I'm Asaduzzaman!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Asaduzzaman!;Full-Stack+Web+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
+</p>
 <p align="center">
   <strong>Software Engineer</strong> | <strong>Full-Stack Web Developer</strong> | Passionate about crafting user-friendly and secure web applications.
 </p>
@@ -15,6 +17,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Asaduzzaman&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header" />
   </a>
 </div>
+
 
 
 <h2>💡 About Me</h2>
@@ -44,31 +47,10 @@
   <li><strong>Collaboration:</strong> Strong communication skills for thriving in fast-paced environments.</li>
 </ul>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Asaduzzaman!;Full-Stack+Web+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
-</p>
 
 <h2>🛠️ Skills</h2>
 
-<h2>🛠️ Skills</h2>
 
-<h3>Frontend</h3>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" /></a>
-</p>
-
-<h3>Backend</h3>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-</p>
 
 
 <p><strong>Frontend:</strong><br>
@@ -110,11 +92,6 @@
   <img src="https://img.shields.io/badge/Multer-00C7B7?style=flat-square&logo=multipart&logoColor=white" alt="Multer" />
 </p>
 
-<h2>🐍 My Contributions</h2>
-
-<div align="center">
-  <img src="https://github.com/Asaduzzama-n/Asaduzzama-n/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 
 <h2>🎵 Currently Listening To</h2>
 <div align="center">
@@ -123,11 +100,6 @@
   </a>
 </div>
 
-
-<h2>🏆 GitHub Trophies</h2>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asaduzzama-n&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-</div>
 
 <h2>🌱 Currently Learning</h2>
 
@@ -143,27 +115,27 @@
 <div align="center">
   <table>
     <tr>
-      <td>Frontend Development</td>
+      <td width="200px">Frontend Development</td>
       <td>
-        <img src="https://progress-bar.dev/90/?width=500&color=61DAFB" alt="90%" />
+        <img src="https://img.shields.io/badge/90%25-61DAFB?style=flat-square&labelColor=black" alt="80%" />
       </td>
     </tr>
     <tr>
-      <td>Backend Development</td>
+      <td width="200px">Backend Development</td>
       <td>
-        <img src="https://progress-bar.dev/85/?width=500&color=339933" alt="85%" />
+        <img src="https://img.shields.io/badge/85%25-339933?style=flat-square&labelColor=black" alt="85%" />
       </td>
     </tr>
     <tr>
-      <td>Database Management</td>
+      <td width="200px">Database Management</td>
       <td>
-        <img src="https://progress-bar.dev/80/?width=500&color=47A248" alt="80%" />
+        <img src="https://img.shields.io/badge/80%25-47A248?style=flat-square&labelColor=black" alt="80%" />
       </td>
     </tr>
     <tr>
-      <td>UI/UX Design</td>
+      <td width="200px">React Native</td>
       <td>
-        <img src="https://progress-bar.dev/75/?width=500&color=F24E1E" alt="75%" />
+        <img src="https://img.shields.io/badge/75%25-F24E1E?style=flat-square&labelColor=black" alt="55%" />
       </td>
     </tr>
   </table>
@@ -173,18 +145,6 @@
   Thanks for stopping by! Let's collaborate and build something amazing! 🚀
 </p>
 
-<h2>🌐 Connect With Me</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/asaduzzaman193146/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:masaduzzaman193146@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Asaduzzama-n" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
 # GitHub Stats:
 <div align="center">
@@ -198,16 +158,10 @@
   
   </div>
 
-  <h2>📊 GitHub Metrics</h2>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/Asaduzzama-n?template=classic&isocalendar=1&languages=1&achievements=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&config.timezone=Asia%2FDhaka" alt="Metrics" width="400">
-</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Asaduzzama-n&label=Profile%20Views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </div>
-
 <br/>
 
 
