@@ -91,13 +91,6 @@
 </p>
 
 
-<h2>🎵 Currently Listening To</h2>
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" alt="Spotify Now Playing" />
-  </a>
-</div>
-
 
 <h2>🌱 Currently Learning</h2>
 
