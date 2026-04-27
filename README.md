@@ -1,165 +1,204 @@
-
 <div align="center">
-  <a href="https://github.com/Asaduzzama-n">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Asaduzzaman&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" width="100%" alt="Header" />
-  </a>
+  <!-- Leaf Village / Sharingan Themed Header -->
+   <img src="https://raw.githubusercontent.com/Asaduzzama-n/Asaduzzama-n/main/sharingan-header.svg" width="100%" alt="Sharingan Header" />
 </div>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0969DA&center=true&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+I'm+Asaduzzaman!;Full-Stack+Web+Developer;Software+Engineer;Problem+Solver" alt="Typing SVG" />
-</p>
+
+<!-- Sharingan Eye Divider -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Anbu+Shadow&weight=700&size=28&pause=1000&color=E94560&center=true&vCenter=true&random=false&width=700&height=100&lines=The+Sharingan+of+Innovation;Chakra+Infused+Developer;Believe+It!+(+Dattebayo+);AI+%7C+Web+%7C+Mobile" alt="Typing SVG" />
+</div>
+
+<!-- Ninja Rank & Village Badges -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Chakra_Nature-Fire_&_Lightning-FF4500?style=for-the-badge&logo=firebase&logoColor=orange&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Village-Hidden_Leaf-FFD700?style=for-the-badge&logo=leaf&logoColor=yellow&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Doujutsu-Sharingan-E94560?style=for-the-badge&logo=mangekyo&logoColor=red&labelColor=1a1a2e" />
+  <img src="https://img.shields.io/badge/Rank-Jounin-8B0000?style=for-the-badge&logo=rank&logoColor=red&labelColor=1a1a2e" />
+</div>
+
+<br/>
 
 <p align="center">
-    🔗 <strong>Linkedin:</strong> <a href="https://www.linkedin.com/in/asaduzzaman193146/">LinkedIn</a> |
-  📧 <strong>Email:</strong> <a href="mailto:masaduzzaman193146@gmail.com">masaduzzaman193146@gmail.com</a> | 
-  📞 <strong>Phone:</strong> +880 1889126591 <br />
-  📍 <strong>Location:</strong> Dhaka, Bangladesh
+    🔗 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/asad-uzzama-n/">Asaduzzaman</a> |
+    📧 <strong>Email:</strong> <a href="mailto:masaduzzaman193146@gmail.com">masaduzzaman193146@gmail.com</a> | 
+    📞 <strong>Summoning:</strong> +880 1889126591 <br />
+    📍 <strong>Hidden Village:</strong> Dhaka, Bangladesh
 </p>
 
+---
 
+### 🍥 The Tale of Asaduzzaman
 
+<table>
+  <tr>
+    <td width="65%">
+      <p>I am a <strong>technologist</strong> with a burning will of fire (and code). My nindo (ninja way) is to create seamless experiences across <strong>web</strong>, <strong>mobile</strong>, and <strong>AI</strong> applications — balancing pixel-perfect design with robust functionality.</p>
+      <p>I don't just solve problems; I train to overcome any obstacle, ensuring security, speed, and an epic user experience. Whether it's the <strong>Shadow Clone Jutsu</strong> for multitasking, the <strong>Rasengan</strong> of backend architecture, or the <strong>Sharingan</strong> of AI pattern recognition — I am ready for any S-Rank mission.</p>
+      <ul>
+        <li>🌀 <strong>Current Mission:</strong> Contributing to the Leaf Village (ZZAZZO Limited & UTM Project).</li>
+        <li>📖 <strong>Ninja Info Card:</strong> <a href="https://asad-uzzaman.vercel.app">asad-uzzaman.vercel.app</a></li>
+        <li>⚡ <strong>Chakra Nature:</strong> Fire (Web), Lightning (Mobile), Yin-Yang (AI/ML).</li>
+        <li>👁️ <strong>Doujutsu:</strong> TypeScript, Python, Go — perception beyond ordinary code.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center">
+      <img src="https://media4.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e47hx7tzmb6uqb23vrz88q7x1vqk5bzg456plm4w9be&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="200" alt="Naruto Running GIF" />
+    </td>
+  </tr>
+</table>
 
-<h2>💡 About Me</h2>
+---
 
-<p>
-  I'm an enthusiastic <strong>Full-Stack Web Developer</strong> with a passion for creating seamless online experiences. 
-  My expertise lies in designing and developing web applications that prioritize both <strong>design</strong> and <strong>functionality</strong>. 
-  I enjoy solving complex problems and continuously improving user experience while ensuring security and efficiency.
+### 🎓 Ninja Academy
+
+<p><strong>🏅 B.Sc. in Computer Science & Engineering</strong><br>
+<em>United International University (Hidden Leaf Academy)</em><br>
+📅 09/2019 – 01/2024 | GPA: 3.63 / 4.00</p>
+
+<blockquote>
+  <em>"Hard work beats talent when talent fails to work hard." – Rock Lee</em><br>
+  <strong>Honors:</strong> Awarded merit-based tuition scholarships (25% to 100%) for consistent academic excellence.
+</blockquote>
+
+---
+
+### 🥋 Jutsu Arsenal (Skills)
+
+<h3 align="center">🎨 Frontend & Mobile (Genjutsu)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactnative,tailwind,bootstrap,redux,html,css,js,ts" />
 </p>
 
-
-<h2>🎓 Education</h2>
-
-<p><strong>Bachelor of Computer Science and Engineering</strong><br>
-  <em>United International University</em><br>
-  📅 09/2019 – 01/2024 | Dhaka, Bangladesh
+<h3 align="center">⚙️ Backend (Ninjutsu)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,python,django,fastapi,nestjs" />
 </p>
 
-
-<h2>💪 Strengths</h2>
-
-<ul>
-  <li><strong>User Experience Design:</strong> Crafting seamless, engaging web applications.</li>
-  <li><strong>Full-Stack Expertise:</strong> Proficient in both front-end and back-end technologies.</li>
-  <li><strong>Security-Focused Development:</strong> Ensuring data protection in web applications.</li>
-  <li><strong>Project Management:</strong> Efficient teamwork and productivity.</li>
-  <li><strong>Collaboration:</strong> Strong communication skills for thriving in fast-paced environments.</li>
-</ul>
-
-
-<h2>🛠️ Skills</h2>
-
-
-
-
-<p><strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<h3 align="center">🤖 AI & Machine Learning (Sage Mode)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/LLM_GPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
 </p>
 
-<p><strong>Backend:</strong><br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/REST_API-008000?style=flat-square&logo=rest&logoColor=white" alt="REST API" />
-  <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<h3 align="center">🗄️ Databases (Summoning)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,redis,mysql,prisma" />
 </p>
 
-<p><strong>Languages & Tools:</strong><br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Project_Management-0078D4?style=flat-square&logo=microsoft-teams&logoColor=white" alt="Project Management" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Zod-20232A?style=flat-square&logo=zod&logoColor=white" alt="Zod" />
-  <img src="https://img.shields.io/badge/Multer-00C7B7?style=flat-square&logo=multipart&logoColor=white" alt="Multer" />
+<h3 align="center">☁️ Cloud & DevOps (Space-Time)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel" />
 </p>
 
+<h3 align="center">🧪 Testing & Tools (Sensory)</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,selenium,postman,figma,jira" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod" />
+</p>
 
+---
 
-<h2>🌱 Currently Learning</h2>
+### ⚔️ Mission Log (Experience)
 
-<ul>
-  <li>Advanced TypeScript Patterns</li>
-  <li>Microservices Architecture</li>
-  <li>React Native</li>
-</ul>
+<div style="border-left: 4px solid #E94560; padding-left: 20px;">
 
+**🔥 Software Engineer (Frontend)** — *ZZAZZO LIMITED | Bangladesh* (Jan 2026 - Present)
+- Maintaining the village's news portal with clean architecture.
+- Executing frontend features with system design thinking for clean UX.
+- Collaborating with the ANBU (backend) to integrate APIs.
 
-<h2>💪 My Expertise</h2>
+**🍃 Backend Developer** — *SPARKTECH AGENCY | Bangladesh* (Nov 2024 - Jan 2026)
+- Led high-risk deliveries and optimized performance using **Redis** caching.
+- Reduced API response times and enhanced scalability.
+- Partnered with clients to gather requirements and recommend scalable solutions.
+
+**📜 Data Labeling Freelancer** — *TAPWAY | Malaysia* (Nov 2024 - Present)
+- Completed 100+ labeling projects with surgical precision.
+- Labeled and reviewed nearly 10,000 images following strict guidelines.
+
+**🏫 Software Engineer** — *UTM Project | Malaysia* (Mar 2026 - Present)
+- Leading a team under a renowned professor.
+- Developing Django backend and ride-sharing applications.
+
+</div>
+
+---
+
+### 🌀 Open Source Contribution
 
 <div align="center">
   <table>
     <tr>
-      <td width="200px">Frontend Development</td>
-      <td>
-        <img src="https://img.shields.io/badge/90%25-61DAFB?style=flat-square&labelColor=black" alt="80%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="200px">Backend Development</td>
-      <td>
-        <img src="https://img.shields.io/badge/85%25-339933?style=flat-square&labelColor=black" alt="85%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="200px">Database Management</td>
-      <td>
-        <img src="https://img.shields.io/badge/80%25-47A248?style=flat-square&labelColor=black" alt="80%" />
-      </td>
-    </tr>
-    <tr>
-      <td width="200px">React Native</td>
-      <td>
-        <img src="https://img.shields.io/badge/75%25-F24E1E?style=flat-square&labelColor=black" alt="55%" />
+      <td align="center" width="100%">
+        <h3>📦 Leo Generator</h3>
+        <p>An NPM package that automates Express.js API setup (Models, Routes, Controllers, Services).</p>
+        <p><strong>Jutsu:</strong> Node.js, TypeScript, OpenAPI, Swagger</p>
+        <p><em>Helped 20+ developers streamline their daily training and reduce documentation time.</em></p>
+        <a href="https://www.npmjs.com/package/@asad_dev/leo-generator">
+          <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+        </a>
+        <img src="https://img.shields.io/badge/Downloads-1.2k+-FFD700?style=for-the-badge" />
       </td>
     </tr>
   </table>
 </div>
 
-<p align="center">
-  Thanks for stopping by! Let's collaborate and build something amazing! 🚀
-</p>
+---
 
+### 📊 Chakra Reserves (GitHub Stats)
 
-# GitHub Stats:
 <div align="center">
-<!--   <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false"> -->
-    <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact" >
-   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=react&hide_border=true&show_icons=true&include_all_commits=true" >
-   <img  height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=react&hide_border=true" >
-  
-<!--   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&show_icons=true&theme=transparent) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asaduzzama-n&theme=merko&hide_border=true&show_icons=true&include_all_commits=true&title_color=E94560&icon_color=E94560" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asaduzzama-n&theme=merko&hide_border=true&layout=compact&title_color=E94560" />
   <br/>
-  
-  </div>
-
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asaduzzama-n&label=Profile%20Views&color=0e75b6&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Asaduzzama-n&theme=merko&hide_border=true&ring=E94560&fire=E94560" />
 </div>
-<br/>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Asaduzzama-n&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👁️ Mangekyō Sharingan Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+</div>
+
+---
+
+### 🐾 Summoning Technique (Contact)
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/asad-uzzama-n/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Asaduzzama-n">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:masaduzzaman193146@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asaduzzama-n&label=Profile%20Views%20(Chakra%20Sensing)&color=E94560&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Sharingan closing pattern -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=100&section=footer&animation=twinkling" />
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff7e5f,100:feb47b&height=100&section=footer&animation=twinkling" width="100%" />
+  </picture>
+</div>
+
+<!-- Sharingan Gaze 🔴 - Believe It! -->
+
+
+
+the top section holding name is not visible give it a sharingan eye looks using svg
